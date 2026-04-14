@@ -136,6 +136,10 @@ This project is useful for understanding how scheduler design affects:
 - Queue behavior in feedback-based scheduling
 - Overall CPU utilization patterns
 
+
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec8ef82c-83ae-4e10-a829-ce3edc71c856" />
+
+
 ## Notes
 
 - The GUI is the primary interactive experience and includes algorithm-specific controls not available in a single unified console flow.
