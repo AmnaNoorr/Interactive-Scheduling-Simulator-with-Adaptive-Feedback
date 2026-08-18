@@ -1,6 +1,6 @@
 # Interactive Scheduling Simulator with Adaptive Feedback
 
-An educational CPU scheduling simulator built in Python that helps users compare classical scheduling strategies through interactive process input, execution summaries, and Gantt chart visualization.
+An educational CPU scheduling simulator built in Python that helps users compare classical scheduling strategies through interactive process input, execution summaries, and Gantt chart visualization. 
 
 The project provides both a graphical interface and a console-based workflow for experimenting with process scheduling behavior. It is suitable for operating systems coursework, lab demonstrations, and algorithm comparison exercises.
 
