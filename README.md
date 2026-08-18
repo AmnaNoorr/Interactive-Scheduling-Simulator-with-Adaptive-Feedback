@@ -15,7 +15,7 @@ The project provides both a graphical interface and a console-based workflow for
 
 ## Supported Algorithms
 
-The simulator currently includes:
+The simulator currently includes: 
 
 - First Come First Serve (FCFS)
 - Shortest Job First (SJF, non-preemptive)
